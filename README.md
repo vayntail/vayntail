@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hihi!
+I'm Vayn / Yoon, nice to meet you😄
 
 <!--
 **vayntail/vayntail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
