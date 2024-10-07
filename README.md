@@ -1,5 +1,6 @@
 ## Hihi!
-I'm Vayn / Yoon, nice to meet you😄
+I'm Yoon, but I also go by Vayn! I love design and full-stack development.
+nice to meet you!😄
 
 <!--
 **vayntail/vayntail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
